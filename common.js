@@ -1,4 +1,3 @@
-console.log('Buna ! Ora este ...');
 
 function colorClock(){
   var date = new Date();
